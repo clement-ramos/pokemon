@@ -1,0 +1,173 @@
+[{
+    "id": 1,
+    "name": {
+      "english": "Bulbasaur",
+      "french": "Bulbizarre"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "base": {
+      "HP": 45,
+      "ATQ": 49,
+      "DEF": 49,
+      "SATQ": 65,
+      "SDEF": 65,
+      "SPD": 45
+    },
+    "evolution":16
+  },
+  {
+    "id": 2,
+    "name": {
+      "english": "Ivysaur",
+      "french": "Herbizarre"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "base": {
+      "HP": 60,
+      "ATQ": 62,
+      "DEF": 63,
+      "SATQ": 80,
+      "SDEF": 80,
+      "SPD": 60
+    },
+    "evolution":36
+  },
+  {
+    "id": 3,
+    "name": {
+      "english": "Venusaur",
+      "french": "Florizarre"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "base": {
+      "HP": 80,
+      "ATQ": 82,
+      "DEF": 83,
+      "SATQ": 100,
+      "SDEF": 100,
+      "SPD": 80
+    }
+  },
+  {
+    "id": 4,
+    "name": {
+      "english": "Charmander",
+      "french": "Salamèche"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 39,
+      "ATQ": 52,
+      "DEF": 43,
+      "SATQ": 60,
+      "SDEF": 50,
+      "SPD": 65
+    },
+    "evolution":16
+  },
+  {
+    "id": 5,
+    "name": {
+      "english": "Charmeleon",
+      "french": "Reptincel"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 58,
+      "ATQ": 64,
+      "DEF": 58,
+      "SATQ": 80,
+      "SDEF": 65,
+      "SPD": 80
+    },
+    "evolution":36
+  },
+  {
+    "id": 6,
+    "name": {
+      "english": "Charizard",
+      "french": "Dracaufeu"
+    },
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "base": {
+      "HP": 78,
+      "ATQ": 84,
+      "DEF": 78,
+      "SATQ": 109,
+      "SDEF": 85,
+      "SPD": 100
+    }
+  },
+  {
+    "id": 7,
+    "name": {
+      "english": "Squirtle",
+      "french": "Carapuce"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 44,
+      "ATQ": 48,
+      "DEF": 65,
+      "SATQ": 50,
+      "SDEF": 64,
+      "SPD": 43
+    },
+    "evolution":16
+  },
+  {
+    "id": 8,
+    "name": {
+      "english": "Wartortle",
+      "french": "Carabaffe"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 59,
+      "ATQ": 63,
+      "DEF": 80,
+      "SATQ": 65,
+      "SDEF": 80,
+      "SPD": 58
+    },
+    "evolution":36
+  },
+  {
+    "id": 9,
+    "name": {
+      "english": "Blastoise",
+      "french": "Tortank"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 79,
+      "ATQ": 83,
+      "DEF": 100,
+      "SATQ": 85,
+      "SDEF": 105,
+      "SPD": 78
+    }
+  }
+]
