@@ -1,0 +1,56 @@
+{
+    "1": [
+        "swords-dance",
+        "cut",
+        "bind",
+        "vine-whip"
+    ],
+    "2": [
+        "cut",
+        "bind",
+        "vine-whip",
+        "headbutt"
+    ],
+    "3": [
+        "cut",
+        "bind",
+        "vine-whip",
+        "headbutt"
+    ],
+    "4": [
+        "fire-punch",
+        "thunder-punch",
+        "scratch",
+        "swords-dance"
+    ],
+    "5": [
+        "fire-punch",
+        "thunder-punch",
+        "scratch",
+        "swords-dance"
+    ],
+    "6": [
+        "fire-punch",
+        "thunder-punch",
+        "scratch",
+        "swords-dance"
+    ],
+    "7": [
+        "ice-punch",
+        "mega-kick",
+        "headbutt",
+        "tackle"
+    ],
+    "8": [
+        "ice-punch",
+        "mega-kick",
+        "headbutt",
+        "tackle"
+    ],
+    "9": [
+        "ice-punch",
+        "mega-kick",
+        "headbutt",
+        "tackle"
+    ]
+}
